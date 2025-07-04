@@ -38,11 +38,9 @@ animals/
 ```
 
 Each class contains an equal number of images for training and validation. The `inf` folder is used for inference testing with one image per class.
-```
+
 
 ---
-
-
 
 
 ## 🛠 Tools Used
@@ -51,7 +49,7 @@ Each class contains an equal number of images for training and validation. The `
 - **Keras `ImageDataGenerator`** for preprocessing
 - **Jupyter Notebook / VS Code** for experimentation and visualization
 
-```
+
 ## Training and Testing Code!
 - [Training](training.py)
 - [Testing](validation.py)
